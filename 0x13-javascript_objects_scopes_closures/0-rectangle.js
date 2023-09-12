@@ -1,3 +1,5 @@
 #!/usr/bin/node
 
-class Rectangle (); 
+class Rectangle {
+	// An empty class
+}
