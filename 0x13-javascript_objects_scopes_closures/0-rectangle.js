@@ -2,4 +2,4 @@
 
 class Rectangle {
 	// An empty class
-}
+};
