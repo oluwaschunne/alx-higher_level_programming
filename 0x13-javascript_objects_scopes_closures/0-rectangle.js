@@ -1,5 +1,2 @@
 #!/usr/bin/node
-
-const Rectangle = class {
-  // An empty class
-};
+module.exports = class Rectangle {};
