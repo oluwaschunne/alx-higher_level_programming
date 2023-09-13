@@ -1,5 +1,5 @@
 #!/usr/bin/node
 
 const Rectangle = class {
-	// An empty class
-}
+  // An empty class
+};
